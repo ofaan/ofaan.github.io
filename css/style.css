@@ -1,0 +1,230 @@
+body{ font-family: Ubuntu; font-weight:normal;}
+p{ font-size:18px; color:#393939; line-height:29px; }
+a{ text-decoration:none;}
+a: hover{ text-decoration:none;}
+h1, h2, h3, h4, h5, h6{ color:#393939; text-transform:uppercase;}
+h2{ font-size:50px;}
+.container{ width:1200px; margin:0 auto; }
+li{ list-style:none;}
+
+
+header{ padding:18px;}
+.toplft{
+	float:left;
+}
+.toprht{
+	float:right;
+}
+.nav{
+	float:left;
+}
+.nav li{
+	display:inline-block;
+	margin-right:30px;
+}
+.nav li a{
+	color:#013f8c;
+	font-size:20px;
+}
+.donatenow{
+	background:#013f8c;
+	padding:10px;
+	font-size:20px;
+	color:#fff;
+	float:right;
+}
+.banner{ position:relative; text-align:center; height:480px;}
+.banner p{
+	color:#fff;
+	font-size:40px;
+	line-height:52px;
+}
+.name{
+	font-size:30px;
+	color:#fff;
+}
+.caption{
+	display:block;
+	position:absolute;
+	z-index:2;
+	text-shadow:none;
+	left:207px;
+	top:40%;
+	padding:10px 20px;
+	margin:0;
+	max-width:none;
+	width:940px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a{
+	background:#013f8c;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+	bottom:21px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus {
+  background: #fff;
+}
+.about{
+	width:100%;
+	margin-top:20px;
+}
+.about h3{
+	color:#013f8c;
+	font-size:30px;
+}
+.services{
+	width:100%;
+	background:#013f8c;
+	text-align:center;
+	padding:15px 0;
+}
+.services h2, .services p{
+	color:#fff;
+}
+.services h3{
+	color:#fff;
+}
+.gallery{
+	text-align:center;
+}
+.gallery .row{ margin-right:0;}
+.gallery h2{ color:#013f8c; }
+.glryimgs a img{
+	width:270px;
+	display:inline-block;
+}
+footer{
+	background:url(../images/footerbg_02.jpg) no-repeat;
+	padding:15px 0 0;
+}
+footer h3, footer p, footer h4{
+	color:#fff;
+}
+footer p{
+	font-size:18px;
+}
+.address{
+	padding:33px 0 0 82px;
+}
+button, input, select, textarea{
+	margin-bottom:10px;
+	width:100%;
+	border:none;
+	height:40px;
+	padding:0 10px;
+}
+textarea{
+	height:85px;
+}
+input[type="submit"]{
+	height:40px;
+	width:90px;
+	background:#013f8c;
+	color:#fff;
+	text-transform:uppercase;
+}
+.cpFrmInn{
+	padding:0;
+}
+.blue{
+	background:#013f8c;
+	padding:14px 0 0;
+}
+.blue p, .blue a{
+	color:#fff;
+	text-transform:uppercase;
+	font-size:16px;
+}
+.cpyright{
+	float:left;
+}
+.design{
+	float:right;
+}
+.inrbnr{
+	text-align:center;
+	position:relative;
+}
+.inrbnr h2{
+	color:#fff;
+	text-transform:none;
+}
+.inrbnr .caption{
+	top:27%;
+}
+.abt2{
+	margin-top:10px;
+}
+.team .row{
+	margin-top:10px;
+}
+.team h2{
+	color:#013f8c;
+	text-transform:none;
+}
+.rht{ float:right;}
+.team h4{
+	text-transform:none;
+}
+.servcetext{
+	text-align:left;
+}
+.servicespg h3{ padding:35px 107px;}
+.education{
+	background:url(../images/educaton_03.png) no-repeat;
+}
+.shelter{
+	background:url(../images/shelter_03.png) no-repeat;
+}
+.medicine{
+	background:url(../images/medicine_03.png) no-repeat;
+}
+.activities{
+	text-align:center;
+}
+.activities h2{
+	color:#013f8c;
+}
+.people{
+	text-align:left;
+	padding:0;
+}
+.individual{
+	border:1px solid #666;
+	padding:10px;
+	margin-bottom:10px;
+}
+.imgNme{
+	margin-bottom:25px;
+}
+.image{
+	float:left;
+	margin-right:10px;
+}
+.name{
+}
+.name h5{ text-transform:none; font-size:30px;}
+.abtpeople{
+}
+.glrypg{ margin:20px 0;}
+.contact{ margin:20px 0;}
+.contact h3{ text-transform:none;}
+.contact button, .contact input, .contact select, .contact textarea{
+	border:1px solid #999;
+}
+.contct{ float:right}
+.future{
+	text-align:center;
+}
+.future h2{
+	color:#013f8c;
+}
+.quote{
+	background:#013f8c;
+	padding:20px 0;
+	text-align:center;
+	margin-top:10px;
+}
+.quote p{color:#fff;}
